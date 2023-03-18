@@ -10,6 +10,7 @@ Open vim, `:PlugInstall`. C-n to turn off NerdTree navigation.
 
 ## Acknowledgments
 Originally cloned from https://github.com/KevinRSX/vim-config
+
 Adding personal preferences and hopefully growing it to be a folder
 for config files
 
