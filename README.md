@@ -1,4 +1,7 @@
 # vim-config
+## Acknowledgments
+Originally cloned from [Kevin's github](https://github.com/KevinRSX/vim-config)
+
 ## Installation
 
 This copies `.*rc` to `~`. You should make sure you are installing for the correct user.
@@ -7,9 +10,6 @@ $ chmod a+x install.sh
 $ ./install.sh
 ```
 Open vim, `:PlugInstall`. C-n to turn off NerdTree navigation.
-
-## Acknowledgments
-Originally cloned from https://github.com/KevinRSX/vim-config
 
 Adding personal preferences and hopefully growing it to be a folder
 for config files
